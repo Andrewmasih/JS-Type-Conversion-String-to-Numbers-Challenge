@@ -32,3 +32,4 @@ console.log(whiteDecimal);
 console.log(offWhiteDecimal);
 console.log(offWhiteHex);
 
+/* i want to 'parse' the "whiteHex" to an 'integer', but we need to supply a number system to 'parse' it to. seeing as "whiteHex" is a hexadecimal number, we will need to use a number base of 16:  */
